@@ -3,7 +3,7 @@ Import("env")
 env.Append(
     CPPPATH=[
         "#/lib/drivers",
-    ],
+    ],PS C:\Users\Administrator>                                                                                               
     SDK_HEADERS=[
         File("rgb_backlight.h"),
         File("cc1101_regs.h"),
